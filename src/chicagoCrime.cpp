@@ -1,10 +1,6 @@
 /*
-	C++ program to analyze Chicago crime data.
-	
 	Jonathan Galvan
-	U. of Illinois, Chicago
-	CS341, Fall 2015
-	Homework 3
+	C++ program to analyze Chicago crime data.
 
 */
 
