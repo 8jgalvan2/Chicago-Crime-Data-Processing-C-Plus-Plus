@@ -3,14 +3,14 @@ The program analyzes the data in three different ways. Part 1 is to output the d
 Example output:
 
 Part 2:
->> By Community << 
+By Community 
 
 Please enter a community number [1..77], 0 to stop: 1
->> Rogers Park  <<
->> Total: 6133
->> Percentage: 1.3713%
->> Homicides: 12
->> Top-5 Crimes <<
+ Rogers Park  
+ Total: 6133
+ Percentage: 1.3713%
+ Homicides: 12
+ Top-5 Crimes 
 Rank  IUCR  Number Description 
 1.    0820  662    Theft ($500 and under)
 2.    0486  614    Battery (Domestic Battery Simple)
