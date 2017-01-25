@@ -3,6 +3,7 @@ The program analyzes the data in three different ways. Part 1 is to output the d
 Example output:
 
 Part 2:
+
 By Community 
 
 Please enter a community number [1..77], 0 to stop: 1
