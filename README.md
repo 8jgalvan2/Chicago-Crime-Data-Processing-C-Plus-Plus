@@ -4,19 +4,19 @@ Example output:
 
 Part 2:
 
-By Community 
+>> By Community 
 
 Please enter a community number [1..77], 0 to stop: 1
 
- Rogers Park  
+>> Rogers Park  
  
- Total: 6133
+>> Total: 6133
  
- Percentage: 1.3713%
+>> Percentage: 1.3713%
  
- Homicides: 12
+>> Homicides: 12
  
- Top-5 Crimes 
+>> Top-5 Crimes 
  
 Rank  IUCR  Number Description 
 
