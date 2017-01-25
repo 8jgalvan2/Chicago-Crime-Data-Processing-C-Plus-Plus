@@ -7,25 +7,43 @@ Part 2:
 By Community 
 
 Please enter a community number [1..77], 0 to stop: 1
+
  Rogers Park  
+ 
  Total: 6133
+ 
  Percentage: 1.3713%
+ 
  Homicides: 12
+ 
  Top-5 Crimes 
+ 
 Rank  IUCR  Number Description 
+
 1.    0820  662    Theft ($500 and under)
+
 2.    0486  614    Battery (Domestic Battery Simple)
+
 3.    0460  512    Battery (Simple)
+
 4.    1310  309    Criminal Damage (To Property)
+
 5.    0810  289    Theft (Over $500)
 
 Part 3:
+
 >> By IUCR Crime Code <<
 
 Please enter an IUCR crime code [e.g 0110 or 031A], 0000 to stop: 0110
+
 >> Homicide (First Degree Murder)
+
 >> Total: 742
+
 >> Percentage: 0.165906%
+
 >> By Year:
+
   2015: 321
+  
   2014: 421
